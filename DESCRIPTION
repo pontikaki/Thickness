@@ -3,7 +3,7 @@ Title: ANALYSIS OF THE VARIATIONS OF WING MEMBRANE THICKNESS IN CLEARWING ITHOMI
 Version: 0.0.0.9000
 Authors@R: 
     person("Doris", "Gomez", , "doris.gomez@cefe.cnrs.fr", role = c("aut", "cre")) #orcid = "0000-0002-9144-3426"
-Description: This compendium allows to reproduce the results and graphs present in the article
+Description: This compendium allows to reproduce the results and graphs present in the article regarding wing membrane thickness
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
@@ -16,3 +16,5 @@ Imports:
     ggplot2,
     here,
     phytools
+URL: https://github.com/pontikaki/Thickness
+BugReports: https://github.com/pontikaki/Thickness/issues
